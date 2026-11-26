@@ -1,0 +1,265 @@
+@prefix : <http://unibo/one-piece-ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://unibo/one-piece-ontology/> .
+
+<http://unibo/one-piece-ontology> rdf:type owl:Ontology .
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://unibo/one-piece-ontology#CP0
+:CP0 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP1
+:CP1 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP2
+:CP2 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP3
+:CP3 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP4
+:CP4 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP5
+:CP5 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP6
+:CP6 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP7
+:CP7 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP8
+:CP8 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#CP9
+:CP9 rdf:type owl:Class ;
+     rdfs:subClassOf :cipherPol .
+
+
+###  http://unibo/one-piece-ontology#Imu
+:Imu rdf:type owl:Class ;
+     rdfs:subClassOf :worldGovernment .
+
+
+###  http://unibo/one-piece-ontology#Powers
+:Powers rdf:type owl:Class .
+
+
+###  http://unibo/one-piece-ontology#SMILE
+:SMILE rdf:type owl:Class ;
+       rdfs:subClassOf :zoan .
+
+
+###  http://unibo/one-piece-ontology#SWORD
+:SWORD rdf:type owl:Class ;
+       rdfs:subClassOf :marineArmy .
+
+
+###  http://unibo/one-piece-ontology#ancient
+:ancient rdf:type owl:Class ;
+         rdfs:subClassOf :zoan .
+
+
+###  http://unibo/one-piece-ontology#cipherPol
+:cipherPol rdf:type owl:Class ;
+           rdfs:subClassOf :worldGovernment .
+
+
+###  http://unibo/one-piece-ontology#common
+:common rdf:type owl:Class ;
+        rdfs:subClassOf :zoan .
+
+
+###  http://unibo/one-piece-ontology#fiveElders
+:fiveElders rdf:type owl:Class ;
+            rdfs:subClassOf :worldGovernment .
+
+
+###  http://unibo/one-piece-ontology#geppo
+:geppo rdf:type owl:Class ;
+       rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#kami-e
+:kami-e rdf:type owl:Class ;
+        rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#kings
+:kings rdf:type owl:Class ;
+       rdfs:subClassOf :worldGovernment .
+
+
+###  http://unibo/one-piece-ontology#knightOfGod
+:knightOfGod rdf:type owl:Class ;
+             rdfs:subClassOf :worldGovernment .
+
+
+###  http://unibo/one-piece-ontology#marineAdmirals
+:marineAdmirals rdf:type owl:Class ;
+                rdfs:subClassOf :marineArmy .
+
+
+###  http://unibo/one-piece-ontology#marineArmy
+:marineArmy rdf:type owl:Class ;
+            rdfs:subClassOf :worldGovernment .
+
+
+###  http://unibo/one-piece-ontology#marineSoldier
+:marineSoldier rdf:type owl:Class ;
+               rdfs:subClassOf :marineArmy .
+
+
+###  http://unibo/one-piece-ontology#mythical
+:mythical rdf:type owl:Class ;
+          rdfs:subClassOf :zoan .
+
+
+###  http://unibo/one-piece-ontology#rankyaku
+:rankyaku rdf:type owl:Class ;
+          rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#rokuogan
+:rokuogan rdf:type owl:Class ;
+          rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#rokushiki
+:rokushiki rdf:type owl:Class ;
+           rdfs:subClassOf :Powers .
+
+
+###  http://unibo/one-piece-ontology#shigan
+:shigan rdf:type owl:Class ;
+        rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#soru
+:soru rdf:type owl:Class ;
+      rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#tekkai
+:tekkai rdf:type owl:Class ;
+        rdfs:subClassOf :rokushiki .
+
+
+###  http://unibo/one-piece-ontology#viceAdmirals
+:viceAdmirals rdf:type owl:Class ;
+              rdfs:subClassOf :marineArmy .
+
+
+###  http://unibo/one-piece-ontology#worldNobles
+:worldNobles rdf:type owl:Class ;
+             rdfs:subClassOf :organization .
+
+
+###  http://unibo/one-piece-ontology/armament
+:armament rdf:type owl:Class ;
+          rdfs:subClassOf :haki .
+
+
+###  http://unibo/one-piece-ontology/character
+:character rdf:type owl:Class .
+
+
+###  http://unibo/one-piece-ontology/civilian
+:civilian rdf:type owl:Class ;
+          rdfs:subClassOf :organization .
+
+
+###  http://unibo/one-piece-ontology/conqueror
+:conqueror rdf:type owl:Class ;
+           rdfs:subClassOf :haki .
+
+
+###  http://unibo/one-piece-ontology/devilFruit
+:devilFruit rdf:type owl:Class ;
+            rdfs:subClassOf :Powers .
+
+
+###  http://unibo/one-piece-ontology/haki
+:haki rdf:type owl:Class ;
+      rdfs:subClassOf :Powers .
+
+
+###  http://unibo/one-piece-ontology/logia
+:logia rdf:type owl:Class ;
+       rdfs:subClassOf :devilFruit .
+
+
+###  http://unibo/one-piece-ontology/observation
+:observation rdf:type owl:Class ;
+             rdfs:subClassOf :haki .
+
+
+###  http://unibo/one-piece-ontology/organization
+:organization rdf:type owl:Class .
+
+
+###  http://unibo/one-piece-ontology/paramisha
+:paramisha rdf:type owl:Class ;
+           rdfs:subClassOf :devilFruit .
+
+
+###  http://unibo/one-piece-ontology/pirateCrew
+:pirateCrew rdf:type owl:Class ;
+            rdfs:subClassOf :organization .
+
+
+###  http://unibo/one-piece-ontology/pirateShip
+:pirateShip rdf:type owl:Class .
+
+
+###  http://unibo/one-piece-ontology/revolutionaryArmy
+:revolutionaryArmy rdf:type owl:Class ;
+                   rdfs:subClassOf :organization .
+
+
+###  http://unibo/one-piece-ontology/saga
+:saga rdf:type owl:Class .
+
+
+###  http://unibo/one-piece-ontology/worldGovernment
+:worldGovernment rdf:type owl:Class ;
+                 rdfs:subClassOf :organization .
+
+
+###  http://unibo/one-piece-ontology/worldNobles
+:worldNobles rdf:type owl:Class ;
+             rdfs:subClassOf :organization .
+
+
+###  http://unibo/one-piece-ontology/zoan
+:zoan rdf:type owl:Class ;
+      rdfs:subClassOf :devilFruit .
+
+
+###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi
