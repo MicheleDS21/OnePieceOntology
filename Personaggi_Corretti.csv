@@ -1,0 +1,231 @@
+ID;Nome_Completo_EN;Nome;Cognome;Categoria;Organization_Crew;Capitolo_Debutto;Episodio_Debutto
+OP_CHAR_0931;Monkey D. Luffy;Luffy;Monkey D.;Pirati;Straw Hat Pirates;1;1
+OP_CHAR_1234;Roronoa Zoro;Zoro;Roronoa;Pirati;Straw Hat Pirates;3;2
+OP_CHAR_0979;Nami;Nami;;Pirati;Straw Hat Pirates;8;1
+OP_CHAR_1514;Usopp;Usopp;;Pirati;Straw Hat Pirates;23;8
+OP_CHAR_1266;Vinsmoke Sanji;Sanji;Vinsmoke;Pirati;Straw Hat Pirates;43;20
+OP_CHAR_1479;Tony Tony Chopper;Tony Tony Chopper;;Pirati;Straw Hat Pirates;134;81
+OP_CHAR_1006;Nico Robin;Robin;Nico;Pirati;Straw Hat Pirates;114;67
+OP_CHAR_0436;Franky;Franky;;Pirati;Straw Hat Pirates;329;233
+OP_CHAR_0166;Brook;Brook;;Pirati;Straw Hat Pirates;442;337
+OP_CHAR_0680;Jinbe;Jinbe;;Pirati;Straw Hat Pirates;528;430
+OP_CHAR_0994;Nefertari Vivi;Vivi;Nefertari;Pirati;Straw Hat Pirates;103;62
+OP_CHAR_1484;Trafalgar D. Water Law;Law;Trafalgar D. Water;Pirati;Heart Pirates;498;392
+OP_CHAR_0126;Bepo;Bepo;;Pirati;Heart Pirates;498;392
+OP_CHAR_1107;Penguin;Penguin;;Pirati;Heart Pirates;498;392
+OP_CHAR_1302;Shachi;Shachi;;Pirati;Heart Pirates;498;392
+OP_CHAR_0672;Jean Bart;Jean Bart;;Pirati;Heart Pirates;504;398
+OP_CHAR_0407;Eustass Kid;Kid;Eustass;Pirati;Kid Pirates;498;392
+OP_CHAR_0748;Killer;Killer;;Pirati;Kid Pirates;498;392
+OP_CHAR_0585;Heat;Heat;;Pirati;Kid Pirates;504;398
+OP_CHAR_1564;Wire;Wire;;Pirati;Kid Pirates;504;398
+OP_CHAR_0213;Cavendish;Cavendish;;Pirati;Straw Hat Grand Fleet (Beautiful Pirates);704;632
+OP_CHAR_1403;Suleiman;Suleiman;;Pirati;Straw Hat Grand Fleet (Beautiful Pirates);704;632
+OP_CHAR_0107;Bartolomeo;Bartolomeo;;Pirati;Straw Hat Grand Fleet (Barto Club);705;633
+OP_CHAR_0464;Gambia;Gambia;;Pirati;Straw Hat Grand Fleet (Barto Club);705;633
+OP_CHAR_1251;Sai;Sai;;Pirati;Straw Hat Grand Fleet (Happo Navy);704;632
+OP_CHAR_0152;Boo;Boo;;Pirati;Straw Hat Grand Fleet (Happo Navy);704;632
+OP_CHAR_0086;Baby 5;Baby 5;;Pirati;Straw Hat Grand Fleet (Happo Navy);682;608
+OP_CHAR_0278;Chinjao;Chinjao;;Pirati;Straw Hat Grand Fleet (Happo Navy);704;632
+OP_CHAR_0635;Ideo;Ideo;;Pirati;Straw Hat Grand Fleet (Ideo Pirates);704;632
+OP_CHAR_0142;Blue Gilly;Blue Gilly;;Pirati;Straw Hat Grand Fleet (Ideo Pirates);706;634
+OP_CHAR_0002;Abdullah;Abdullah;;Pirati;Straw Hat Grand Fleet (Ideo Pirates);704;632
+OP_CHAR_0674;Jeet;Jeet;;Pirati;Straw Hat Grand Fleet (Ideo Pirates);704;632
+OP_CHAR_0821;Leo;Leo;;Pirati;Straw Hat Grand Fleet (Tontatta Pirates);711;641
+OP_CHAR_0701;Kabu;Kabu;;Pirati;Straw Hat Grand Fleet (Tontatta Pirates);711;641
+OP_CHAR_0131;Bian;Bian;;Pirati;Straw Hat Grand Fleet (Tontatta Pirates);711;641
+OP_CHAR_1557;Wicca;Wicca;;Pirati;Straw Hat Grand Fleet (Tontatta Pirates);711;641
+OP_CHAR_0560;Hajrudin;Hajrudin;;Pirati;Straw Hat Grand Fleet (New Giant Warrior Pirates);704;632
+OP_CHAR_1384;Stansen;Stansen;;Pirati;Straw Hat Grand Fleet (New Giant Warrior Pirates);501;395
+OP_CHAR_1224;Road;Road;;Pirati;Straw Hat Grand Fleet (New Giant Warrior Pirates);899;876
+OP_CHAR_0512;Goldberg;Goldberg;;Pirati;Straw Hat Grand Fleet (New Giant Warrior Pirates);899;876
+OP_CHAR_0482;Gerd;Gerd;;Pirati;Straw Hat Grand Fleet (New Giant Warrior Pirates);866;836
+OP_CHAR_1054;Orlumbus;Orlumbus;;Pirati;Straw Hat Grand Fleet (Yonta Maria Grand Fleet);704;632
+OP_CHAR_0295;Columbus;Columbus;;Pirati;Straw Hat Grand Fleet (Yonta Maria Grand Fleet);901;878
+OP_CHAR_0511;Gol D. Roger;Roger;Gol D.;Pirati;Roger Pirates;1;1
+OP_CHAR_1348;Silvers Rayleigh;Rayleigh;Silvers;Pirati;Roger Pirates;19;8
+OP_CHAR_1284;Scopper Gaban;Gaban;Scopper;Pirati;Roger Pirates;19;8
+OP_CHAR_0309;Crocus;Crocus;;Pirati;Roger Pirates;102;62
+OP_CHAR_0774;Kozuki Oden;Oden;Kozuki;Pirati / Famiglia Kozuki;Roger Pirates / Kozuki Family;920;910
+OP_CHAR_1312;Shanks;Shanks;;Pirati;Red Hair Pirates (former Roger Pirates);1;4
+OP_CHAR_0172;Buggy;Buggy;;Pirati;Buggy's Delivery / Cross Guild (former Roger Pirates);9;4
+OP_CHAR_0391;Edward Newgate;Newgate;Edward;Pirati;Whitebeard Pirates;234;151
+OP_CHAR_0865;Marco;Marco;;Pirati;Whitebeard Pirates;234;151
+OP_CHAR_1136;Portgas D. Ace;Ace;Portgas D.;Pirati;Whitebeard Pirates;154;91
+OP_CHAR_0691;Jozu;Jozu;;Pirati;Whitebeard Pirates;234;151
+OP_CHAR_1461;Thatch;Thatch;;Pirati;Whitebeard Pirates;440;325
+OP_CHAR_1537;Vista;Vista;;Pirati;Whitebeard Pirates;552;461
+OP_CHAR_0659;Izo;Izo;;Pirati;Whitebeard Pirates;553;462
+OP_CHAR_0875;Marshall D. Teach;Teach;Marshall D.;Pirati;Blackbeard Pirates (former Whitebeard Pirates);223;146
+OP_CHAR_0247;Charlotte Linlin;Linlin;Charlotte;Pirati;Big Mom Pirates;651;571
+OP_CHAR_0244;Charlotte Katakuri;Katakuri;Charlotte;Pirati;Big Mom Pirates;860;825
+OP_CHAR_0271;Charlotte Smoothie;Smoothie;Charlotte;Pirati;Big Mom Pirates;846;812
+OP_CHAR_0228;Charlotte Cracker;Cracker;Charlotte;Pirati;Big Mom Pirates;835;796
+OP_CHAR_0272;Charlotte Snack;Snack;Charlotte;Pirati;Big Mom Pirates;897;872
+OP_CHAR_0263;Charlotte Perospero;Perospero;Charlotte;Pirati;Big Mom Pirates;834;795
+OP_CHAR_0230;Charlotte Daifuku;Daifuku;Charlotte;Pirati;Big Mom Pirates;861;831
+OP_CHAR_0260;Charlotte Oven;Oven;Charlotte;Pirati;Big Mom Pirates;861;831
+OP_CHAR_0222;Charlotte Brûlée;Brûlée;Charlotte;Pirati;Big Mom Pirates;831;791
+OP_CHAR_0253;Charlotte Mont-d'Or;Mont-d'Or;Charlotte;Pirati;Big Mom Pirates;835;796
+OP_CHAR_0266;Charlotte Pudding;Pudding;Charlotte;Pirati;Big Mom Pirates;651;571
+OP_CHAR_0226;Charlotte Chiffon;Chiffon;Charlotte;Pirati;Big Mom Pirates;815;767
+OP_CHAR_0248;Charlotte Lola;Lola;Charlotte;Pirati;Big Mom Pirates;451;347
+OP_CHAR_1393;Streusen;Streusen;;Pirati;Big Mom Pirates;867;837
+OP_CHAR_1434;Tamago;Tamago;;Pirati;Big Mom Pirates;651;571
+OP_CHAR_1103;Pekoms;Pekoms;;Pirati / Abitanti di Zo;Big Mom Pirates / Mokomo Dukedom;651;571
+OP_CHAR_0707;Kaidou;Kaidou;;Pirati;Beasts Pirates;795;739
+OP_CHAR_0752;King;King;;Pirati;Beasts Pirates;925;919
+OP_CHAR_1154;Queen;Queen;;Pirati;Beasts Pirates;925;919
+OP_CHAR_0665;Jack;Jack;;Pirati;Beasts Pirates;801;746
+OP_CHAR_0137;Black Maria;Black Maria;;Pirati;Beasts Pirates;978;982
+OP_CHAR_1080;Page One;Page One;;Pirati;Beasts Pirates;929;923
+OP_CHAR_1274;Sasaki;Sasaki;;Pirati;Beasts Pirates;978;982
+OP_CHAR_1504;Ulti;Ulti;;Pirati;Beasts Pirates;978;982
+OP_CHAR_1556;Who's-Who;Who's-Who;;Pirati;Beasts Pirates;978;982
+OP_CHAR_1573;X Drake;Drake;X;Pirati;Beasts Pirates;498;392
+OP_CHAR_0111;Basil Hawkins;Hawkins;Basil;Pirati;Beasts Pirates;498;392
+OP_CHAR_1286;Scratchmen Apoo;Apoo;Scratchmen;Pirati;Beasts Pirates;498;392
+OP_CHAR_1582;Yamato;Yamato;;Pirati;Beasts Pirates;971;972
+OP_CHAR_0123;Benn Beckman;Beckman;Benn;Pirati;Red Hair Pirates;1;4
+OP_CHAR_0836;Lucky Roux;Roux;Lucky;Pirati;Red Hair Pirates;1;4
+OP_CHAR_1587;Yasopp;Yasopp;;Pirati;Red Hair Pirates;1;4
+OP_CHAR_1227;Rockstar;Rockstar;;Pirati;Red Hair Pirates;234;151
+OP_CHAR_1516;Uta;Uta;;Pirati;Red Hair Pirates;1055;1029
+OP_CHAR_0676;Jesus Burgess;Burgess;Jesus;Pirati;Blackbeard Pirates;222;146
+OP_CHAR_1327;Shiryu;Shiryu;;Pirati;Blackbeard Pirates;538;440
+OP_CHAR_1521;Van Augur;Augur;Van;Pirati;Blackbeard Pirates;222;146
+OP_CHAR_0081;Avalo Pizarro;Pizarro;Avalo;Pirati;Blackbeard Pirates;575;484
+OP_CHAR_0806;Laffitte;Laffitte;;Pirati;Blackbeard Pirates;234;151
+OP_CHAR_0211;Catarina Devon;Devon;Catarina;Pirati;Blackbeard Pirates;575;484
+OP_CHAR_1268;Sanjuan Wolf;Wolf;Sanjuan;Pirati;Blackbeard Pirates;575;484
+OP_CHAR_1524;Vasco Shot;Shot;Vasco;Pirati;Blackbeard Pirates;575;484
+OP_CHAR_0356;Doc Q;Q;Doc;Pirati;Blackbeard Pirates;223;146
+OP_CHAR_0792;Kuzan;Kuzan;;Pirati;Blackbeard Pirates;303;225
+OP_CHAR_0364;Donquixote Doflamingo;Doflamingo;Donquixote;Pirati;Donquixote Pirates;233;151
+OP_CHAR_1117;Pica;Pica;;Pirati;Donquixote Pirates;736;670
+OP_CHAR_0349;Diamante;Diamante;;Pirati;Donquixote Pirates;700;629
+OP_CHAR_1488;Trebol;Trebol;;Pirati;Donquixote Pirates;700;629
+OP_CHAR_1529;Vergo;Vergo;;Pirati / Marina;Donquixote Pirates / Marines;672;598
+OP_CHAR_0368;Donquixote Rosinante;Rosinante;Donquixote;Pirati;Donquixote Pirates;749;683
+OP_CHAR_0934;Monet;Monet;;Pirati;Donquixote Pirates;657;579
+OP_CHAR_0503;Gladius;Gladius;;Pirati;Donquixote Pirates;700;629
+OP_CHAR_0171;Buffalo;Buffalo;;Pirati;Donquixote Pirates;692;618
+OP_CHAR_0337;Dellinger;Dellinger;;Pirati;Donquixote Pirates;702;630
+OP_CHAR_0811;Lao G;Lao G;;Pirati;Donquixote Pirates;702;630
+OP_CHAR_0844;Machvise;Machvise;;Pirati;Donquixote Pirates;702;630
+OP_CHAR_1294;Senor Pink;Senor Pink;;Pirati;Donquixote Pirates;702;630
+OP_CHAR_0689;Giolla;Giolla;;Pirati;Donquixote Pirates;714;644
+OP_CHAR_1399;Sugar;Sugar;;Pirati;Donquixote Pirates;682;608
+OP_CHAR_1534;Viola;Viola;;Pirati;Donquixote Pirates;703;631
+OP_CHAR_0117;Bellamy;Bellamy;;Pirati;Donquixote Pirates;222;146
+OP_CHAR_0145;Boa Hancock;Hancock;Boa;Pirati;Kuja Pirates;516;410
+OP_CHAR_0147;Boa Sandersonia;Sandersonia;Boa;Pirati;Kuja Pirates;516;410
+OP_CHAR_0146;Boa Marigold;Marigold;Boa;Pirati;Kuja Pirates;516;410
+OP_CHAR_0868;Marguerite;Marguerite;;Pirati;Kuja Pirates;514;408
+OP_CHAR_0506;Gloriosa;Gloriosa;;Pirati;Kuja Pirates;515;409
+OP_CHAR_0308;Crocodile;Crocodile;;Pirati;Baroque Works / Cross Guild;126;76
+OP_CHAR_0332;Daz Bonez;Bonez;Daz;Pirati;Baroque Works;160;103
+OP_CHAR_1606;Zala;Zala;;Pirati;Baroque Works;160;103
+OP_CHAR_0124;Bentham;Bentham;;Pirati;Baroque Works;129;78
+OP_CHAR_0458;Galdino;Galdino;;Pirati;Baroque Works / Buggy's Delivery / Cross Guild;117;70
+OP_CHAR_0867;Marianne;Marianne;;Pirati;Baroque Works;117;70
+OP_CHAR_0085;Babe;Babe;;Pirati;Baroque Works;160;103
+OP_CHAR_0374;Drophy;Drophy;;Pirati;Baroque Works;160;103
+OP_CHAR_0480;Gem;Gem;;Pirati;Baroque Works;110;65
+OP_CHAR_0911;Mikita;Mikita;;Pirati;Baroque Works;110;65
+OP_CHAR_0638;Igaram;Igaram;;Pirati;Baroque Works;103;62
+OP_CHAR_0963;Mr. 9;Mr. 9;;Pirati;Baroque Works;103;62
+OP_CHAR_0479;Gecko Moria;Moria;Gecko;Pirati;Thriller Bark Pirates;449;343
+OP_CHAR_0599;Hogback;Hogback;;Pirati;Thriller Bark Pirates;445;340
+OP_CHAR_0003;Absalom;Absalom;;Pirati;Thriller Bark Pirates;444;339
+OP_CHAR_1111;Perona;Perona;;Pirati;Thriller Bark Pirates;443;338
+OP_CHAR_1329;Shimotsuki Ryuma;Ryuma;Shimotsuki;Pirati;Thriller Bark Pirates;448;342
+OP_CHAR_1034;Oars;Oars;;Pirati;Thriller Bark Pirates;456;352
+OP_CHAR_0425;Fisher Tiger;Tiger;Fisher;Pirati;Sun Pirates;521;415
+OP_CHAR_0065;Arlong;Arlong;;Pirati;Sun Pirates;69;31
+OP_CHAR_0025;Aladine;Aladine;;Pirati;Sun Pirates;621;540
+OP_CHAR_0264;Charlotte Praline;Praline;Charlotte;Pirati;Sun Pirates;830;789
+OP_CHAR_0566;Hatchan;Hatchan;;Pirati;Sun Pirates;69;31
+OP_CHAR_1543;Wadatsumi;Wadatsumi;;Pirati;Sun Pirates;606;525
+OP_CHAR_0036;Alvida;Alvida;;Pirati;Buggy's Delivery / Cross Guild;2;1
+OP_CHAR_0924;Mohji;Mohji;;Pirati;Buggy's Delivery / Cross Guild;9;4
+OP_CHAR_0184;Cabaji;Cabaji;;Pirati;Buggy's Delivery / Cross Guild;9;4
+OP_CHAR_0371;Dracule Mihawk;Mihawk;Dracule;Pirati;Cross Guild;49;23
+OP_CHAR_0929;Monkey D. Dragon;Dragon;Monkey D.;Armata Rivoluzionaria;Revolutionary Army;100;52
+OP_CHAR_1244;Sabo;Sabo;;Armata Rivoluzionaria;Revolutionary Army;583;494
+OP_CHAR_0401;Emporio Ivankov;Ivankov;Emporio;Armata Rivoluzionaria;Revolutionary Army;537;438
+OP_CHAR_0119;Belo Betty;Betty;Belo;Armata Rivoluzionaria;Revolutionary Army;904;880
+OP_CHAR_0723;Karasu;Karasu;;Armata Rivoluzionaria;Revolutionary Army;593;505
+OP_CHAR_0827;Lindbergh;Lindbergh;;Armata Rivoluzionaria;Revolutionary Army;904;880
+OP_CHAR_0946;Morley;Morley;;Armata Rivoluzionaria;Revolutionary Army;904;880
+OP_CHAR_0105;Bartholomew Kuma;Kuma;Bartholomew;Armata Rivoluzionaria;Revolutionary Army;233;151
+OP_CHAR_0643;Inazuma;Inazuma;;Armata Rivoluzionaria;Revolutionary Army;536;438
+OP_CHAR_0764;Koala;Koala;;Armata Rivoluzionaria;Revolutionary Army;622;541
+OP_CHAR_0671;Jaygarcia Saturn;Saturn;Jaygarcia;Governo Mondiale;Five Elders;233;151
+OP_CHAR_0866;Marcus Mars;Mars;Marcus;Governo Mondiale;Five Elders;233;151
+OP_CHAR_1481;Topman Warcury;Warcury;Topman;Governo Mondiale;Five Elders;233;151
+OP_CHAR_0406;Ethanbaron V. Nusjuro;Nusjuro;Ethanbaron V.;Governo Mondiale;Five Elders;233;151
+OP_CHAR_1315;Shepherd Ju Peter;Ju Peter;Shepherd;Governo Mondiale;Five Elders;233;151
+OP_CHAR_0421;Figarland Garling;Garling;Figarland;Governo Mondiale;Five Elders / Knights of God;1086;1120
+OP_CHAR_1373;Spandam;Spandam;;Governo Mondiale;CP9 / CP0;358;250
+OP_CHAR_1222;Rob Lucci;Lucci;Rob;Governo Mondiale;CP9 / CP0;323;230
+OP_CHAR_0710;Kaku;Kaku;;Governo Mondiale;CP9 / CP0;323;230
+OP_CHAR_0664;Jabra;Jabra;;Governo Mondiale;CP9;375;263
+OP_CHAR_0143;Blueno;Blueno;;Governo Mondiale;CP9 / CP0;324;230
+OP_CHAR_0785;Kumadori;Kumadori;;Governo Mondiale;CP9;375;263
+OP_CHAR_0444;Fukurou;Fukurou;;Governo Mondiale;CP9;375;263
+OP_CHAR_0712;Kalifa;Kalifa;;Governo Mondiale;CP9 / CP0;323;230
+OP_CHAR_1398;Stussy;Stussy;;Governo Mondiale;CP0;860;825
+OP_CHAR_1238;Rosward;Rosward;;Governo Mondiale;World Nobles;497;391
+OP_CHAR_0367;Donquixote Mjosgard;Mjosgard;Donquixote;Governo Mondiale;World Nobles;625;544
+OP_CHAR_0365;Donquixote Homing;Homing;Donquixote;Governo Mondiale;World Nobles;760;700
+OP_CHAR_0641;Imu;Imu;;Governo Mondiale;World Government;906;885
+OP_CHAR_1253;Sakazuki;Sakazuki;;Marina;Marines;397;278
+OP_CHAR_0155;Borsalino;Borsalino;;Marina;Marines;504;398
+OP_CHAR_0651;Issho;Issho;;Marina;Marines;701;630
+OP_CHAR_0060;Aramaki;Aramaki;;Marina;Marines;905;882
+OP_CHAR_1293;Sengoku;Sengoku;;Marina;Marines;234;151
+OP_CHAR_0771;Kong;Kong;;Marina;Marines;594;511
+OP_CHAR_0930;Monkey D. Garp;Garp;Monkey D.;Marina;Marines;92;68
+OP_CHAR_1494;Tsuru;Tsuru;;Marina;Marines;234;151
+OP_CHAR_1360;Smoker;Smoker;;Marina;Marines;97;48
+OP_CHAR_0927;Momonga;Momonga;;Marina;Marines;420;302
+OP_CHAR_1045;Onigumo;Onigumo;;Marina;Marines;420;302
+OP_CHAR_0666;Jaguar D. Saul;Saul;Jaguar D.;Marina;Marines;392;275
+OP_CHAR_0594;Hina;Hina;;Marina;Marines;171;127
+OP_CHAR_1443;Tashigi;Tashigi;;Marina;Marines;96;48
+OP_CHAR_0765;Koby;Koby;;Marina;Marines;2;1
+OP_CHAR_0588;Helmeppo;Helmeppo;;Marina;Marines;3;2
+OP_CHAR_1295;Sentomaru;Sentomaru;;Marina;Marines / SSG;497;391
+OP_CHAR_1526;Vegapunk;Vegapunk;;Marina;Marines;1067;1101
+OP_CHAR_0187;Caesar Clown;Caesar Clown;;Marina;Marines;658;581
+OP_CHAR_0750;Kin'emon;Kin'emon;;Alleati e Fazioni Civili;Nine Red Scabbards;656;579
+OP_CHAR_0788;Kurozumi Kanjuro;Kanjuro;Kurozumi;Alleati e Fazioni Civili;Nine Red Scabbards;700;629
+OP_CHAR_1164;Raizo;Raizo;;Alleati e Fazioni Civili;Nine Red Scabbards;817;769
+OP_CHAR_0747;Kikunojo;Kikunojo;;Alleati e Fazioni Civili;Nine Red Scabbards;913;900
+OP_CHAR_0646;Inuarashi;Inuarashi;;Alleati e Fazioni Civili;Nine Red Scabbards / Mokomo Dukedom;808;756
+OP_CHAR_1001;Nekomamushi;Nekomamushi;;Alleati e Fazioni Civili;Nine Red Scabbards / Mokomo Dukedom;809;758
+OP_CHAR_0073;Ashura Doji;Doji;Ashura;Alleati e Fazioni Civili;Nine Red Scabbards;921;911
+OP_CHAR_0730;Kawamatsu;Kawamatsu;;Alleati e Fazioni Civili;Nine Red Scabbards;920;910
+OP_CHAR_0343;Denjiro;Denjiro;;Alleati e Fazioni Civili;Nine Red Scabbards;920;910
+OP_CHAR_0776;Kozuki Sukiyaki;Sukiyaki;Kozuki;Alleati e Fazioni Civili;Kozuki Family;960;960
+OP_CHAR_0777;Kozuki Toki;Toki;Kozuki;Alleati e Fazioni Civili;Kozuki Family;920;910
+OP_CHAR_0773;Kozuki Momonosuke;Momonosuke;Kozuki;Alleati e Fazioni Civili;Kozuki Family;684;610
+OP_CHAR_0772;Kozuki Hiyori;Hiyori;Kozuki;Alleati e Fazioni Civili;Kozuki Family;909;892
+OP_CHAR_0208;Carrot;Carrot;;Alleati e Fazioni Civili;Mokomo Dukedom;804;752
+OP_CHAR_1100;Pedro;Pedro;;Alleati e Fazioni Civili;Mokomo Dukedom;805;753
+OP_CHAR_1546;Wanda;Wanda;;Alleati e Fazioni Civili;Mokomo Dukedom;804;752
+OP_CHAR_1264;Vinsmoke Judge;Judge;Vinsmoke;Alleati e Fazioni Civili;Germa 66;832;792
+OP_CHAR_1267;Vinsmoke Reiju;Reiju;Vinsmoke;Alleati e Fazioni Civili;Germa 66;826;785
+OP_CHAR_1263;Vinsmoke Ichiji;Ichiji;Vinsmoke;Alleati e Fazioni Civili;Germa 66;828;787
+OP_CHAR_1265;Vinsmoke Niji;Niji;Vinsmoke;Alleati e Fazioni Civili;Germa 66;828;787
+OP_CHAR_1268;Vinsmoke Yonji;Yonji;Vinsmoke;Alleati e Fazioni Civili;Germa 66;826;785
+OP_CHAR_0630;Iceburg;Iceburg;;Alleati e Fazioni Civili;Galley-La Company;323;230
+OP_CHAR_1097;Paulie;Paulie;;Alleati e Fazioni Civili;Galley-La Company;323;230
+OP_CHAR_1101;Peepley Lulu;Peepley Lulu;;Alleati e Fazioni Civili;Galley-La Company;323;230
+OP_CHAR_1471;Tilestone;Tilestone;;Alleati e Fazioni Civili;Galley-La Company;323;230
+OP_CHAR_0399;Enel;Enel;;Alleati e Fazioni Civili;Enel's Warriors;254;167
+OP_CHAR_1276;Satori;Satori;;Alleati e Fazioni Civili;Enel's Warriors;241;155
+OP_CHAR_1332;Shura;Shura;;Alleati e Fazioni Civili;Enel's Warriors;241;155
+OP_CHAR_1037;Ohm;Ohm;;Alleati e Fazioni Civili;Enel's Warriors;241;155
+OP_CHAR_0474;Gedatsu;Gedatsu;;Alleati e Fazioni Civili;Enel's Warriors;241;155
